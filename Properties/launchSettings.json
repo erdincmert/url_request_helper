@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Url_Request_Helper": {
+      "commandName": "Project",
+      "commandLineArgs": "Cloud06 Vestel_SND dragon_user Ber%@r3b#$!R \"https://www.regal-tr.com/lookup/offlinestores?cityID=1&districtID=&_=1687422081779\" MapVestelRegal"
+    }
+  }
+}
